@@ -1,0 +1,1101 @@
+Store ID,Sales Mode,Payment Mode,Customer Gender,Customer Age,Product Name,Cost Per Unit,Discount %,Final Price
+store7,online,debit card,female,30,Headphones and Earbuds,109,5,103.55
+store4,online,online payment,female,30,Tablets,558,12,491.04
+store5,offline,online payment,male,27,Power Banks,83,10,74.7
+store7,online,debit card,male,21,Power Banks,65,11,57.85
+store3,online,credit card,female,26,Headphones and Earbuds,103,11,91.67
+store5,offline,cash,male,39,Cameras,458,10,412.2
+store5,online,cash,male,40,Tablets,363,11,323.07
+store7,offline,credit card,male,19,Bluetooth Speakers,91,12,80.08
+store2,offline,online payment,male,36,Smartwatches,132,13,114.84
+store3,offline,online payment,female,18,Tablets,664,12,584.32
+store7,online,online payment,female,24,Cameras,639,14,549.54
+store3,online,online payment,female,34,Laptops,1154,7,1073.22
+store3,online,credit card,male,20,Smartphones,835,9,759.85
+store5,offline,online payment,male,37,Tablets,533,14,458.38
+store4,online,debit card,male,37,Tablets,194,9,176.54
+store3,online,online payment,male,38,Smartphones,1048,6,985.12
+store6,online,cash,male,20,Smartwatches,130,10,117
+store5,offline,online payment,female,20,Tablets,620,6,582.8
+store2,offline,credit card,male,34,Smartphones,995,7,925.35
+store4,online,cash,female,24,Smartphones,943,15,801.55
+store6,online,credit card,male,31,Smartphones,821,10,738.9
+store6,online,credit card,male,34,Gaming Consoles,306,8,281.52
+store2,online,cash,male,35,Cameras,605,15,514.25
+store4,offline,credit card,female,30,Gaming Consoles,542,15,460.7
+store5,offline,credit card,female,37,Laptops,1081,9,983.71
+store1,offline,online payment,female,37,Bluetooth Speakers,349,8,321.08
+store4,offline,debit card,male,38,Gaming Consoles,424,13,368.88
+store2,online,credit card,male,35,Gaming Consoles,417,12,366.96
+store6,online,credit card,female,21,Cameras,472,12,415.36
+store5,online,credit card,male,18,Bluetooth Speakers,153,14,131.58
+store4,offline,online payment,female,35,Headphones and Earbuds,176,12,154.88
+store1,online,debit card,male,18,Smartphones,936,8,861.12
+store1,offline,cash,male,30,Power Banks,70,12,61.6
+store3,offline,online payment,male,37,Bluetooth Speakers,329,8,302.68
+store3,online,online payment,male,37,Laptops,1829,13,1591.23
+store7,online,debit card,female,40,Smartwatches,417,11,371.13
+store2,online,debit card,male,27,Laptops,528,6,496.32
+store4,offline,online payment,male,28,Smartphones,962,10,865.8
+store4,online,cash,male,26,Bluetooth Speakers,107,8,98.44
+store7,offline,online payment,male,26,Laptops,699,8,643.08
+store6,online,debit card,female,22,Laptops,1458,11,1297.62
+store6,offline,cash,female,18,Headphones and Earbuds,110,8,101.2
+store7,offline,debit card,female,34,Headphones and Earbuds,36,13,31.32
+store6,online,cash,female,39,Bluetooth Speakers,81,6,76.14
+store3,offline,credit card,male,19,Smartphones,301,12,264.88
+store4,offline,debit card,female,30,Gaming Consoles,661,13,575.07
+store7,online,debit card,male,26,Televisions,232,12,204.16
+store4,offline,online payment,male,21,Tablets,286,10,257.4
+store1,online,debit card,female,22,Power Banks,47,15,39.95
+store3,offline,debit card,male,28,Tablets,382,8,351.44
+store5,online,credit card,female,36,Cameras,1376,5,1307.2
+store3,online,debit card,male,38,Headphones and Earbuds,31,9,28.21
+store7,offline,credit card,female,20,Bluetooth Speakers,220,5,209
+store5,offline,credit card,female,29,Tablets,592,15,503.2
+store1,offline,credit card,female,36,Smartphones,1139,7,1059.27
+store7,offline,credit card,female,36,Power Banks,66,13,57.42
+store2,offline,cash,female,30,Tablets,672,13,584.64
+store4,online,online payment,male,24,Power Banks,18,7,16.74
+store1,offline,cash,female,32,Smartwatches,224,11,199.36
+store4,online,debit card,male,40,Smartphones,637,5,605.15
+store6,online,cash,female,24,Televisions,1352,10,1216.8
+store2,offline,cash,female,25,Laptops,727,5,690.65
+store2,online,debit card,female,22,Power Banks,24,14,20.64
+store1,online,debit card,male,38,Smartphones,596,15,506.6
+store2,online,debit card,male,31,Power Banks,15,7,13.95
+store5,online,cash,female,21,Power Banks,26,7,24.18
+store2,offline,cash,male,40,Gaming Consoles,686,13,596.82
+store4,online,debit card,male,27,Gaming Consoles,471,8,433.32
+store4,offline,online payment,male,37,Smartphones,869,14,747.34
+store7,offline,online payment,female,32,Gaming Consoles,590,11,525.1
+store4,online,credit card,female,35,Cameras,614,9,558.74
+store7,offline,debit card,male,37,Televisions,391,13,340.17
+store4,offline,credit card,male,30,Bluetooth Speakers,106,10,95.4
+store5,offline,online payment,male,25,Smartphones,582,14,500.52
+store7,online,credit card,female,26,Smartphones,872,14,749.92
+store3,offline,debit card,female,33,Cameras,658,7,611.94
+store6,offline,debit card,male,36,Headphones and Earbuds,22,5,20.9
+store1,offline,debit card,male,33,Headphones and Earbuds,167,15,141.95
+store4,online,cash,male,24,Gaming Consoles,669,14,575.34
+store2,offline,credit card,female,31,Bluetooth Speakers,330,6,310.2
+store4,online,online payment,female,31,Gaming Consoles,630,13,548.1
+store2,online,online payment,male,21,Smartwatches,408,10,367.2
+store6,online,online payment,male,32,Smartwatches,196,8,180.32
+store6,online,cash,male,20,Laptops,1648,14,1417.28
+store6,online,cash,female,22,Smartwatches,114,7,106.02
+store2,online,debit card,male,18,Headphones and Earbuds,204,14,175.44
+store4,offline,online payment,female,20,Televisions,1034,7,961.62
+store6,online,cash,female,32,Smartwatches,62,11,55.18
+store5,offline,debit card,male,25,Gaming Consoles,615,7,571.95
+store7,offline,online payment,male,21,Power Banks,91,10,81.9
+store2,online,credit card,male,19,Smartphones,541,12,476.08
+store2,offline,debit card,female,27,Televisions,1256,7,1168.08
+store4,offline,cash,female,21,Televisions,307,10,276.3
+store2,offline,cash,female,20,Gaming Consoles,540,10,486
+store2,offline,debit card,female,19,Smartphones,737,6,692.78
+store6,online,debit card,male,34,Headphones and Earbuds,173,13,150.51
+store4,offline,cash,female,40,Televisions,1404,8,1291.68
+store6,online,credit card,female,38,Laptops,1807,11,1608.23
+store7,offline,online payment,male,37,Gaming Consoles,614,10,552.6
+store7,offline,credit card,female,40,Televisions,556,10,500.4
+store6,online,debit card,female,30,Bluetooth Speakers,367,6,344.98
+store7,offline,credit card,female,22,Smartphones,388,9,353.08
+store4,offline,cash,female,38,Smartwatches,434,10,390.6
+store1,offline,debit card,female,26,Televisions,627,12,551.76
+store6,online,online payment,female,39,Gaming Consoles,322,13,280.14
+store5,offline,cash,male,23,Smartwatches,351,10,315.9
+store5,online,cash,male,22,Laptops,847,6,796.18
+store2,offline,online payment,female,27,Smartwatches,160,7,148.8
+store7,online,online payment,male,25,Bluetooth Speakers,143,7,132.99
+store5,online,credit card,male,24,Headphones and Earbuds,38,6,35.72
+store2,offline,debit card,male,24,Televisions,430,9,391.3
+store1,offline,online payment,male,23,Tablets,153,7,142.29
+store4,online,online payment,female,38,Tablets,440,7,409.2
+store4,online,debit card,female,37,Smartwatches,88,6,82.72
+store4,offline,online payment,male,20,Cameras,1056,5,1003.2
+store5,online,online payment,male,36,Smartphones,512,6,481.28
+store1,offline,credit card,male,39,Tablets,763,7,709.59
+store5,offline,cash,female,32,Cameras,1320,9,1201.2
+store7,offline,cash,female,21,Tablets,338,10,304.2
+store5,offline,cash,male,29,Cameras,1197,6,1125.18
+store1,online,cash,female,23,Smartphones,1023,9,930.93
+store1,offline,online payment,female,36,Power Banks,99,8,91.08
+store7,online,debit card,female,21,Tablets,539,7,501.27
+store1,offline,debit card,female,32,Bluetooth Speakers,60,5,57
+store1,online,credit card,male,26,Televisions,1041,10,936.9
+store4,offline,credit card,female,22,Cameras,975,12,858
+store7,online,online payment,male,30,Televisions,1030,7,957.9
+store3,online,debit card,female,40,Gaming Consoles,423,6,397.62
+store3,offline,debit card,female,35,Gaming Consoles,644,14,553.84
+store1,offline,cash,female,22,Smartphones,1164,8,1070.88
+store3,offline,online payment,female,33,Cameras,405,7,376.65
+store3,offline,online payment,male,36,Laptops,632,14,543.52
+store1,online,cash,female,31,Gaming Consoles,378,13,328.86
+store3,offline,online payment,other,33,Smartphones,1038,9,944.58
+store5,online,online payment,female,32,Gaming Consoles,571,10,513.9
+store2,online,credit card,male,39,Gaming Consoles,554,7,515.22
+store7,offline,debit card,male,21,Laptops,1103,6,1036.82
+store2,online,online payment,male,24,Tablets,526,11,468.14
+store1,online,credit card,female,33,Smartwatches,189,6,177.66
+store4,online,debit card,female,39,Power Banks,53,9,48.23
+store7,online,cash,male,38,Gaming Consoles,617,14,530.62
+store1,offline,credit card,female,39,Gaming Consoles,692,15,588.2
+store4,offline,credit card,female,38,Bluetooth Speakers,375,7,348.75
+store2,offline,debit card,female,25,Power Banks,94,11,83.66
+store1,offline,cash,female,34,Laptops,1103,10,992.7
+store7,online,credit card,female,33,Televisions,809,14,695.74
+store7,online,online payment,female,40,Cameras,1088,8,1000.96
+store6,offline,online payment,male,27,Gaming Consoles,669,5,635.55
+store5,offline,online payment,female,27,Smartwatches,114,7,106.02
+store3,offline,cash,female,19,Cameras,526,8,483.92
+store4,online,credit card,female,26,Power Banks,23,8,21.16
+store6,offline,online payment,female,34,Cameras,957,13,832.59
+store3,offline,cash,female,28,Tablets,349,12,307.12
+store3,offline,online payment,male,27,Gaming Consoles,430,8,395.6
+store1,online,debit card,male,39,Cameras,199,10,179.1
+store3,online,credit card,male,34,Televisions,655,6,615.7
+store5,online,credit card,male,21,Televisions,1321,14,1136.06
+store7,online,cash,female,33,Gaming Consoles,393,14,337.98
+store6,online,cash,other,37,Headphones and Earbuds,215,15,182.75
+store3,online,credit card,male,32,Televisions,1019,14,876.34
+store1,online,online payment,male,38,Cameras,1309,7,1217.37
+store5,online,online payment,female,22,Smartphones,419,5,398.05
+store2,offline,debit card,male,23,Televisions,1471,11,1309.19
+store7,offline,online payment,female,34,Power Banks,62,14,53.32
+store7,online,cash,female,18,Headphones and Earbuds,299,7,278.07
+store6,online,cash,female,36,Cameras,1376,5,1307.2
+store7,offline,online payment,male,21,Laptops,832,13,723.84
+store3,online,cash,male,34,Bluetooth Speakers,51,6,47.94
+store1,online,credit card,female,26,Laptops,883,9,803.53
+store7,online,credit card,female,19,Tablets,493,12,433.84
+store7,offline,online payment,male,25,Bluetooth Speakers,93,7,86.49
+store2,offline,credit card,female,32,Tablets,259,6,243.46
+store2,offline,credit card,male,24,Bluetooth Speakers,201,13,174.87
+store4,offline,debit card,female,23,Bluetooth Speakers,42,11,37.38
+store5,offline,debit card,male,18,Smartphones,410,15,348.5
+store3,online,credit card,female,32,Smartwatches,237,8,218.04
+store7,offline,online payment,male,40,Power Banks,16,6,15.04
+store7,online,debit card,male,24,Laptops,1095,12,963.6
+store1,online,cash,male,34,Televisions,816,10,734.4
+store4,offline,cash,male,19,Cameras,732,7,680.76
+store5,offline,cash,female,26,Headphones and Earbuds,263,13,228.81
+store4,online,online payment,other,26,Power Banks,58,7,53.94
+store6,online,credit card,male,30,Tablets,454,8,417.68
+store5,online,cash,male,23,Smartphones,670,6,629.8
+store7,offline,online payment,female,23,Tablets,681,9,619.71
+store7,offline,debit card,female,37,Smartwatches,453,9,412.23
+store5,offline,credit card,female,37,Headphones and Earbuds,259,10,233.1
+store7,offline,debit card,male,38,Smartphones,906,12,797.28
+store3,offline,online payment,male,20,Tablets,239,14,205.54
+store5,online,cash,female,34,Smartwatches,175,6,164.5
+store4,offline,cash,male,34,Cameras,164,6,154.16
+store5,online,online payment,female,29,Cameras,1403,5,1332.85
+store7,online,cash,male,33,Tablets,580,6,545.2
+store3,online,credit card,female,32,Power Banks,77,12,67.76
+store3,offline,online payment,male,30,Headphones and Earbuds,107,12,94.16
+store6,offline,debit card,female,40,Gaming Consoles,638,13,555.06
+store4,offline,online payment,male,18,Power Banks,33,7,30.69
+store2,online,credit card,female,34,Cameras,102,8,93.84
+store2,online,credit card,male,20,Headphones and Earbuds,125,10,112.5
+store5,online,online payment,female,32,Smartwatches,307,6,288.58
+store6,online,online payment,female,21,Smartphones,731,11,650.59
+store1,online,cash,female,21,Bluetooth Speakers,349,15,296.65
+store5,online,credit card,female,35,Tablets,219,9,199.29
+store6,offline,online payment,female,34,Laptops,1331,13,1157.97
+store4,offline,online payment,female,36,Headphones and Earbuds,164,10,147.6
+store4,offline,credit card,male,28,Televisions,566,6,532.04
+store4,offline,online payment,female,37,Smartwatches,420,11,373.8
+store4,online,cash,female,20,Gaming Consoles,601,8,552.92
+store4,online,credit card,male,25,Bluetooth Speakers,301,5,285.95
+store6,offline,cash,male,31,Televisions,1339,11,1191.71
+store6,online,cash,male,18,Gaming Consoles,589,14,506.54
+store3,offline,cash,female,31,Laptops,848,8,780.16
+store2,offline,cash,female,19,Cameras,1088,9,990.08
+store7,offline,credit card,female,40,Power Banks,38,14,32.68
+store4,online,cash,female,21,Tablets,307,13,267.09
+store1,offline,cash,male,36,Smartphones,366,12,322.08
+store7,offline,online payment,male,23,Gaming Consoles,598,7,556.14
+store6,offline,credit card,male,18,Bluetooth Speakers,293,14,251.98
+store1,online,credit card,male,34,Headphones and Earbuds,86,7,79.98
+store1,online,debit card,male,25,Cameras,1149,11,1022.61
+store1,offline,credit card,male,36,Headphones and Earbuds,277,5,263.15
+store3,online,credit card,female,38,Bluetooth Speakers,70,11,62.3
+store6,online,debit card,female,18,Headphones and Earbuds,85,8,78.2
+store1,online,credit card,other,22,Gaming Consoles,600,9,546
+store4,online,credit card,female,33,Smartwatches,174,8,160.08
+store5,online,credit card,female,23,Headphones and Earbuds,195,7,181.35
+store1,online,credit card,male,25,Power Banks,17,11,15.13
+store3,online,debit card,female,30,Laptops,1178,14,1013.08
+store7,online,credit card,female,33,Smartphones,965,15,820.25
+store6,online,credit card,male,20,Gaming Consoles,575,7,534.75
+store3,online,debit card,male,36,Televisions,1260,12,1108.8
+store1,offline,online payment,female,29,Bluetooth Speakers,355,12,312.4
+store6,offline,cash,male,33,Cameras,1182,8,1087.44
+store5,online,online payment,female,28,Gaming Consoles,569,5,540.55
+store1,offline,debit card,female,27,Smartwatches,64,12,56.32
+store3,offline,cash,male,37,Cameras,849,14,730.14
+store2,online,debit card,male,21,Power Banks,13,11,11.57
+store4,online,debit card,male,29,Bluetooth Speakers,329,9,299.39
+store7,online,credit card,male,40,Cameras,549,10,494.1
+store3,offline,cash,male,19,Headphones and Earbuds,177,7,164.61
+store6,offline,credit card,female,39,Gaming Consoles,412,13,358.44
+store1,online,cash,male,36,Laptops,1674,12,1473.12
+store4,online,debit card,female,22,Bluetooth Speakers,358,6,336.52
+store1,online,debit card,male,25,Tablets,409,14,351.74
+store6,offline,online payment,female,24,Power Banks,88,8,80.96
+store1,offline,cash,male,31,Smartphones,540,15,459
+store2,offline,credit card,male,40,Bluetooth Speakers,228,9,207.48
+store4,offline,online payment,female,20,Smartwatches,436,7,405.48
+store4,online,online payment,female,35,Gaming Consoles,430,9,391.3
+store6,online,online payment,male,33,Headphones and Earbuds,287,9,261.17
+store7,online,credit card,female,40,Smartphones,410,6,385.4
+store2,online,online payment,male,36,Smartphones,316,11,281.24
+store3,offline,credit card,male,36,Power Banks,91,11,80.99
+store1,offline,online payment,male,35,Cameras,196,12,172.48
+store5,online,credit card,male,37,Smartwatches,496,5,471.2
+store1,online,debit card,female,33,Cameras,1432,10,1288.8
+store1,offline,debit card,female,25,Headphones and Earbuds,58,6,54.52
+store3,online,debit card,male,18,Smartphones,784,12,689.92
+store1,offline,debit card,female,34,Smartwatches,133,6,125.02
+store2,online,debit card,female,29,Smartwatches,243,14,208.98
+store2,online,online payment,male,38,Televisions,280,12,246.4
+store4,online,online payment,female,28,Gaming Consoles,390,10,351
+store6,online,online payment,male,22,Smartphones,627,9,570.57
+store7,online,credit card,female,29,Smartphones,695,6,653.3
+store5,online,credit card,female,34,Smartwatches,490,8,450.8
+store1,online,credit card,female,23,Cameras,1231,14,1058.66
+store1,offline,credit card,male,18,Smartphones,964,14,829.04
+store3,offline,debit card,male,22,Smartwatches,292,5,277.4
+store6,offline,debit card,male,31,Smartphones,1056,11,939.84
+store2,offline,debit card,male,22,Smartwatches,203,12,178.64
+store5,offline,cash,male,39,Televisions,1122,11,998.58
+store4,online,online payment,female,18,Gaming Consoles,698,6,656.12
+store2,online,credit card,male,35,Smartwatches,192,7,178.56
+store6,offline,credit card,male,33,Smartphones,907,8,834.44
+store7,online,debit card,female,26,Headphones and Earbuds,256,13,222.72
+store4,offline,credit card,male,36,Gaming Consoles,666,10,599.4
+store7,offline,credit card,female,39,Televisions,1133,10,1019.7
+store3,online,online payment,male,22,Smartwatches,178,14,153.08
+store3,online,debit card,male,19,Headphones and Earbuds,111,11,98.79
+store1,online,online payment,male,32,Smartwatches,59,14,50.74
+store7,offline,cash,male,24,Cameras,1165,10,1048.5
+store6,online,cash,female,21,Smartphones,338,6,317.72
+store5,offline,cash,male,18,Bluetooth Speakers,350,14,301
+store4,offline,debit card,female,30,Power Banks,21,10,18.9
+store2,offline,credit card,male,37,Laptops,758,7,704.94
+store6,online,debit card,male,39,Cameras,767,8,705.64
+store6,online,debit card,female,24,Headphones and Earbuds,227,6,213.38
+store3,offline,credit card,male,32,Cameras,295,10,265.5
+store7,online,online payment,female,40,Tablets,436,14,374.96
+store1,online,cash,female,31,Smartwatches,267,14,229.62
+store1,online,online payment,female,40,Smartwatches,146,14,125.56
+store4,offline,cash,female,36,Laptops,673,6,632.62
+store3,offline,debit card,male,39,Laptops,1755,9,1597.05
+store6,online,cash,male,37,Tablets,477,5,453.15
+store5,offline,debit card,male,35,Smartphones,313,14,269.18
+store3,online,online payment,female,27,Power Banks,82,9,74.62
+store4,online,debit card,other,26,Bluetooth Speakers,393,11,349.77
+store4,online,online payment,male,25,Bluetooth Speakers,254,12,223.52
+store3,online,credit card,female,27,Televisions,855,9,778.05
+store4,offline,credit card,male,34,Televisions,1342,8,1234.64
+store3,offline,credit card,female,19,Smartphones,1157,15,983.45
+store2,offline,debit card,male,23,Televisions,1181,15,1003.85
+store3,online,credit card,female,22,Televisions,779,8,716.68
+store7,online,cash,female,26,Tablets,535,10,481.5
+store3,online,online payment,male,22,Tablets,606,15,515.1
+store4,offline,online payment,male,35,Televisions,453,5,430.35
+store7,online,cash,male,37,Cameras,726,9,660.66
+store4,offline,debit card,male,26,Gaming Consoles,632,6,594.08
+store1,offline,debit card,male,34,Gaming Consoles,562,10,505.8
+store1,offline,online payment,female,34,Smartphones,670,5,636.5
+store7,offline,credit card,female,29,Bluetooth Speakers,275,9,250.25
+store2,offline,debit card,female,24,Laptops,677,7,629.61
+store1,offline,debit card,male,20,Smartphones,661,10,594.9
+store3,online,cash,female,27,Televisions,1231,15,1046.35
+store4,online,cash,female,19,Tablets,293,13,254.91
+store1,offline,credit card,male,20,Smartwatches,134,13,116.58
+store1,offline,debit card,female,33,Cameras,1431,11,1273.59
+store2,online,debit card,female,19,Headphones and Earbuds,79,5,75.05
+store7,offline,cash,male,27,Tablets,320,7,297.6
+store7,offline,debit card,male,23,Gaming Consoles,688,14,591.68
+store6,online,online payment,male,39,Tablets,628,9,571.48
+store2,offline,cash,male,28,Cameras,1079,6,1014.26
+store3,offline,credit card,female,40,Laptops,1779,12,1565.52
+store7,offline,cash,female,24,Televisions,351,8,322.92
+store4,online,debit card,female,32,Smartwatches,368,8,338.56
+store2,online,credit card,male,23,Gaming Consoles,501,15,425.85
+store1,online,cash,male,37,Gaming Consoles,632,14,543.52
+store4,offline,online payment,female,26,Power Banks,56,9,50.96
+store4,offline,online payment,female,39,Bluetooth Speakers,259,15,220.15
+store1,online,cash,male,37,Laptops,1217,12,1070.96
+store2,offline,online payment,female,29,Gaming Consoles,491,12,432.08
+store1,offline,online payment,female,36,Bluetooth Speakers,314,5,298.3
+store6,offline,online payment,male,37,Gaming Consoles,551,6,517.94
+store4,offline,credit card,male,20,Televisions,1023,11,910.47
+store5,offline,online payment,female,32,Bluetooth Speakers,197,14,169.42
+store5,online,online payment,male,19,Cameras,844,11,751.16
+store3,offline,online payment,male,38,Power Banks,77,6,72.38
+store7,online,credit card,male,19,Televisions,1274,6,1197.56
+store1,offline,cash,male,39,Cameras,1075,13,935.25
+store1,online,debit card,female,20,Smartwatches,466,6,438.04
+store3,offline,online payment,female,23,Laptops,1730,10,1557
+store3,online,cash,male,32,Laptops,1343,5,1275.85
+store3,offline,online payment,female,27,Headphones and Earbuds,208,6,195.52
+store4,online,credit card,female,26,Headphones and Earbuds,279,12,245.52
+store6,offline,cash,female,18,Bluetooth Speakers,259,12,227.92
+store1,online,credit card,male,33,Laptops,1737,8,1598.04
+store4,offline,online payment,male,23,Bluetooth Speakers,285,7,265.05
+store3,online,online payment,other,26,Headphones and Earbuds,175,13,152.25
+store1,online,credit card,female,21,Smartwatches,159,7,147.87
+store4,offline,debit card,male,19,Gaming Consoles,470,10,423
+store6,offline,credit card,male,21,Cameras,1455,15,1236.75
+store4,online,online payment,male,18,Tablets,578,6,543.32
+store6,offline,credit card,female,36,Bluetooth Speakers,239,14,205.54
+store3,online,debit card,female,27,Smartwatches,470,7,437.1
+store6,online,credit card,female,38,Cameras,921,11,819.69
+store1,online,debit card,male,32,Laptops,1289,9,1172.99
+store3,offline,debit card,female,39,Gaming Consoles,604,15,513.4
+store1,online,credit card,female,36,Cameras,1098,8,1010.16
+store5,online,credit card,male,33,Power Banks,27,9,24.57
+store2,offline,cash,female,38,Headphones and Earbuds,152,15,129.2
+store6,offline,online payment,female,39,Cameras,762,10,685.8
+store2,offline,debit card,male,21,Tablets,396,10,356.4
+store2,offline,cash,female,19,Smartwatches,283,8,260.36
+store6,online,credit card,male,30,Gaming Consoles,465,12,409.2
+store3,online,online payment,female,18,Televisions,459,5,436.05
+store5,online,cash,female,34,Cameras,677,5,643.15
+store1,online,debit card,female,30,Smartphones,365,11,324.85
+store4,offline,cash,female,21,Tablets,524,8,482.08
+store1,online,debit card,male,24,Tablets,705,15,599.25
+store4,online,credit card,female,34,Smartphones,953,14,819.58
+store1,offline,online payment,female,26,Power Banks,42,12,36.96
+store6,online,online payment,male,21,Televisions,313,13,272.31
+store5,online,online payment,female,36,Headphones and Earbuds,77,12,67.76
+store4,online,credit card,female,18,Smartwatches,295,6,277.3
+store7,online,debit card,male,27,Gaming Consoles,383,13,333.21
+store3,online,credit card,female,21,Smartwatches,295,7,274.35
+store1,online,online payment,female,26,Televisions,501,8,460.92
+store1,offline,credit card,male,30,Smartwatches,432,13,375.84
+store4,offline,credit card,other,31,Smartphones,658,10,592.2
+store3,online,credit card,male,27,Tablets,310,14,266.6
+store3,online,debit card,male,23,Smartwatches,416,7,386.88
+store6,offline,cash,male,33,Bluetooth Speakers,157,11,139.73
+store7,online,cash,female,23,Cameras,256,6,240.64
+store6,online,credit card,female,34,Televisions,942,11,838.38
+store6,online,cash,male,27,Power Banks,62,13,53.94
+store6,offline,cash,male,35,Bluetooth Speakers,294,11,261.66
+store6,online,credit card,female,39,Smartphones,516,8,474.72
+store6,offline,credit card,male,35,Laptops,1166,5,1107.7
+store5,online,online payment,female,20,Smartphones,554,6,520.76
+store3,offline,cash,female,37,Power Banks,17,11,15.13
+store6,offline,debit card,female,38,Power Banks,89,14,76.54
+store3,online,credit card,female,32,Bluetooth Speakers,300,7,279
+store3,offline,online payment,male,32,Cameras,522,12,459.36
+store2,online,debit card,other,21,Televisions,979,14,841.94
+store5,offline,cash,female,26,Headphones and Earbuds,76,10,68.4
+store6,online,online payment,female,36,Tablets,729,12,641.52
+store1,online,credit card,male,34,Bluetooth Speakers,73,13,63.51
+store4,offline,debit card,female,28,Power Banks,10,8,9.2
+store7,online,credit card,male,26,Laptops,1253,8,1152.76
+store1,online,cash,male,27,Gaming Consoles,533,5,506.35
+store5,offline,debit card,male,35,Power Banks,62,15,52.7
+store4,online,cash,female,37,Cameras,176,14,151.36
+store5,online,cash,female,30,Cameras,540,13,469.8
+store3,offline,online payment,female,25,Power Banks,55,6,51.7
+store4,offline,credit card,female,24,Cameras,403,9,366.73
+store3,online,debit card,male,34,Bluetooth Speakers,353,6,331.82
+store1,online,cash,female,38,Power Banks,18,5,17.1
+store1,offline,cash,male,40,Power Banks,54,11,48.06
+store4,offline,debit card,female,32,Televisions,1099,15,934.15
+store4,online,cash,female,37,Tablets,320,14,275.2
+store6,offline,online payment,female,32,Laptops,1436,12,1263.68
+store5,online,online payment,female,18,Cameras,1261,6,1185.34
+store6,online,online payment,male,31,Televisions,447,8,411.24
+store5,online,online payment,male,22,Headphones and Earbuds,277,8,254.84
+store6,online,cash,female,28,Headphones and Earbuds,175,13,152.25
+store3,online,debit card,male,33,Smartwatches,185,13,160.95
+store4,offline,debit card,male,19,Bluetooth Speakers,189,9,171.99
+store1,offline,debit card,female,25,Bluetooth Speakers,146,9,132.86
+store5,offline,debit card,female,28,Smartphones,953,5,905.35
+store5,offline,credit card,male,35,Laptops,1694,8,1558.48
+store1,online,debit card,male,20,Power Banks,85,10,76.5
+store6,online,credit card,female,18,Cameras,1480,6,1391.2
+store5,online,credit card,female,28,Laptops,1687,10,1518.3
+store7,online,online payment,male,33,Smartwatches,321,14,276.06
+store3,offline,credit card,male,35,Smartphones,605,11,538.45
+store4,online,cash,male,33,Televisions,908,6,853.52
+store1,online,credit card,male,40,Laptops,562,7,522.66
+store4,offline,online payment,male,27,Televisions,1168,10,1051.2
+store7,offline,credit card,female,35,Headphones and Earbuds,145,9,131.95
+store5,offline,cash,female,23,Cameras,128,9,116.48
+store5,offline,cash,female,36,Smartwatches,78,10,70.2
+store7,online,cash,male,21,Power Banks,45,11,40.05
+store1,online,online payment,female,30,Cameras,917,13,797.79
+store3,offline,online payment,male,31,Tablets,452,8,415.84
+store2,online,debit card,female,20,Bluetooth Speakers,259,13,225.33
+store1,online,online payment,female,27,Smartwatches,266,8,244.72
+store2,online,cash,male,23,Laptops,1493,6,1403.42
+store7,offline,cash,female,18,Cameras,407,11,362.23
+store6,online,online payment,male,40,Gaming Consoles,345,11,307.05
+store2,offline,credit card,female,31,Bluetooth Speakers,251,14,215.86
+store3,online,online payment,male,25,Bluetooth Speakers,209,12,183.92
+store6,online,online payment,male,36,Gaming Consoles,311,14,267.46
+store2,online,cash,female,31,Smartphones,642,14,552.12
+store7,offline,debit card,male,27,Smartphones,396,11,352.44
+store6,online,cash,female,34,Gaming Consoles,513,10,461.7
+store7,offline,debit card,male,26,Tablets,407,11,362.23
+store2,offline,cash,female,23,Headphones and Earbuds,192,15,163.2
+store7,offline,online payment,female,28,Gaming Consoles,622,13,541.14
+store3,online,cash,female,24,Headphones and Earbuds,104,6,97.76
+store2,online,cash,male,34,Cameras,1447,13,1258.89
+store2,online,cash,male,18,Tablets,498,7,463.14
+store2,online,online payment,male,39,Smartwatches,328,9,298.48
+store1,offline,online payment,male,22,Headphones and Earbuds,211,7,196.23
+store1,offline,online payment,female,26,Bluetooth Speakers,277,12,243.76
+store1,offline,online payment,female,35,Cameras,815,14,700.9
+store3,online,debit card,female,38,Bluetooth Speakers,189,8,173.88
+store6,offline,debit card,female,19,Tablets,185,6,173.9
+store7,online,credit card,female,28,Headphones and Earbuds,26,8,23.92
+store5,offline,online payment,female,23,Televisions,665,12,585.2
+store2,online,debit card,male,25,Tablets,367,8,337.64
+store7,online,cash,female,21,Tablets,402,8,369.84
+store2,offline,online payment,female,35,Televisions,380,7,353.4
+store3,offline,credit card,female,28,Cameras,1133,10,1019.7
+store2,offline,credit card,male,22,Headphones and Earbuds,260,8,239.2
+store1,offline,credit card,male,32,Headphones and Earbuds,283,12,249.04
+store5,online,cash,male,35,Bluetooth Speakers,212,6,199.28
+store4,offline,debit card,female,19,Tablets,606,12,533.28
+store2,offline,cash,female,39,Tablets,706,7,656.58
+store7,offline,online payment,male,28,Power Banks,48,10,43.2
+store1,online,credit card,female,30,Smartwatches,189,8,173.88
+store4,online,cash,male,21,Tablets,759,12,667.92
+store5,offline,cash,male,39,Laptops,1274,14,1095.64
+store4,online,debit card,male,24,Smartwatches,274,14,235.64
+store1,offline,debit card,female,28,Laptops,768,11,683.52
+store6,online,credit card,female,39,Headphones and Earbuds,50,10,45
+store6,online,cash,male,21,Smartwatches,429,13,373.23
+store4,online,cash,female,32,Tablets,549,12,483.12
+store3,online,debit card,male,18,Televisions,624,7,580.32
+store7,offline,cash,female,40,Bluetooth Speakers,101,13,87.87
+store7,offline,cash,female,20,Laptops,1333,9,1213.03
+store4,offline,cash,female,31,Smartwatches,313,7,291.09
+store2,online,debit card,male,23,Tablets,285,8,262.2
+store2,offline,credit card,female,35,Smartwatches,433,8,398.36
+store7,offline,online payment,female,18,Tablets,205,10,184.5
+store7,offline,credit card,male,23,Tablets,381,7,354.33
+store6,online,online payment,female,23,Tablets,592,6,556.48
+store3,online,cash,male,38,Power Banks,35,6,32.9
+store1,online,credit card,female,33,Bluetooth Speakers,336,11,299.04
+store2,offline,online payment,male,22,Televisions,1162,12,1022.56
+store7,offline,debit card,female,34,Televisions,1226,8,1127.92
+store6,offline,debit card,female,27,Smartwatches,104,5,98.8
+store5,online,credit card,male,38,Smartwatches,113,6,106.22
+store6,online,credit card,male,35,Tablets,336,14,288.96
+store2,offline,cash,male,24,Power Banks,57,10,51.3
+store2,online,credit card,male,20,Tablets,636,10,572.4
+store6,online,cash,male,30,Power Banks,85,5,80.75
+store1,online,cash,female,32,Tablets,608,12,535.04
+store4,online,debit card,male,37,Laptops,1893,10,1703.7
+store2,offline,debit card,male,36,Laptops,1608,7,1495.44
+store6,online,online payment,female,20,Headphones and Earbuds,106,6,99.64
+store7,online,debit card,male,21,Tablets,322,9,293.02
+store6,online,debit card,female,22,Bluetooth Speakers,288,13,250.56
+store3,online,credit card,female,18,Headphones and Earbuds,74,14,63.64
+store4,offline,debit card,female,21,Smartwatches,92,11,81.88
+store5,offline,online payment,female,29,Cameras,845,12,743.6
+store1,online,credit card,female,27,Tablets,684,6,642.96
+store5,online,online payment,male,40,Laptops,652,11,580.28
+store4,online,debit card,male,38,Cameras,1209,12,1063.92
+store4,online,online payment,male,37,Power Banks,83,7,77.19
+store4,online,credit card,female,30,Cameras,775,14,666.5
+store5,online,cash,male,40,Bluetooth Speakers,51,7,47.43
+store7,offline,online payment,female,31,Tablets,263,8,241.96
+store4,online,online payment,other,40,Televisions,1120,11,996.8
+store6,offline,credit card,female,22,Cameras,1096,11,975.44
+store5,offline,credit card,female,21,Televisions,1368,12,1203.84
+store4,online,online payment,male,31,Power Banks,62,6,58.28
+store6,offline,debit card,female,27,Headphones and Earbuds,55,13,47.85
+store7,offline,online payment,female,34,Televisions,358,10,322.2
+store3,offline,credit card,male,27,Headphones and Earbuds,222,10,199.8
+store7,offline,cash,male,24,Laptops,776,15,659.6
+store4,offline,cash,female,33,Tablets,363,12,319.44
+store5,offline,debit card,female,18,Cameras,782,6,735.08
+store2,online,online payment,female,34,Laptops,537,13,467.19
+store4,offline,cash,female,38,Laptops,873,6,820.62
+store2,offline,online payment,female,26,Gaming Consoles,463,5,439.85
+store6,offline,credit card,female,23,Smartphones,552,9,502.32
+store3,online,cash,male,36,Bluetooth Speakers,80,15,68
+store1,offline,debit card,male,30,Headphones and Earbuds,224,7,208.32
+store7,online,credit card,male,20,Gaming Consoles,625,12,550
+store3,offline,debit card,female,24,Smartphones,532,7,494.76
+store4,online,credit card,female,39,Bluetooth Speakers,317,12,278.96
+store2,online,cash,female,26,Headphones and Earbuds,128,10,115.2
+store7,offline,debit card,male,39,Tablets,479,12,421.52
+store2,offline,debit card,female,22,Bluetooth Speakers,347,7,322.71
+store5,online,credit card,female,27,Cameras,1150,12,1012
+store2,offline,debit card,female,40,Laptops,1708,15,1451.8
+store5,online,credit card,female,34,Smartphones,423,12,372.24
+store6,online,credit card,male,29,Smartphones,363,10,326.7
+store7,online,credit card,female,40,Smartphones,1104,14,949.44
+store7,online,credit card,male,33,Headphones and Earbuds,129,5,122.55
+store1,online,cash,male,20,Cameras,503,12,442.64
+store4,offline,credit card,male,39,Bluetooth Speakers,298,14,256.28
+store5,online,online payment,female,26,Laptops,1755,6,1649.7
+store1,online,debit card,female,32,Cameras,1307,10,1176.3
+store2,offline,online payment,female,22,Gaming Consoles,426,7,396.18
+store2,online,cash,female,40,Tablets,704,11,626.56
+store1,offline,online payment,female,30,Televisions,253,11,225.17
+store7,offline,debit card,female,31,Cameras,170,8,156.4
+store2,offline,online payment,male,37,Gaming Consoles,549,10,494.1
+store6,online,cash,male,32,Laptops,595,8,547.4
+store6,online,credit card,male,33,Televisions,622,9,566.02
+store1,online,online payment,male,40,Televisions,1075,7,999.75
+store5,offline,cash,male,30,Cameras,572,14,491.92
+store5,online,cash,male,34,Smartphones,462,5,438.9
+store1,offline,debit card,male,40,Smartwatches,177,14,152.22
+store5,online,debit card,female,25,Laptops,1186,11,1055.54
+store7,offline,online payment,male,38,Smartphones,728,8,669.76
+store7,online,credit card,male,19,Laptops,1675,12,1474
+store5,online,cash,male,22,Smartwatches,388,10,349.2
+store6,online,online payment,female,23,Tablets,447,10,402.3
+store5,offline,cash,male,29,Smartwatches,431,6,405.14
+store7,offline,cash,male,35,Power Banks,20,9,18.2
+store3,online,credit card,female,39,Cameras,457,7,425.01
+store4,online,credit card,male,39,Cameras,1259,5,1196.05
+store2,offline,online payment,male,18,Gaming Consoles,451,9,410.41
+store3,offline,credit card,male,34,Smartphones,1183,6,1112.02
+store5,offline,credit card,male,28,Gaming Consoles,487,8,448.04
+store6,online,online payment,male,27,Power Banks,81,6,76.14
+store1,offline,credit card,male,36,Smartwatches,231,6,217.14
+store5,online,debit card,female,31,Cameras,695,7,646.35
+store6,offline,cash,female,27,Headphones and Earbuds,127,15,107.95
+store4,online,cash,female,32,Smartwatches,374,5,355.3
+store5,offline,cash,male,36,Smartwatches,296,11,263.44
+store7,offline,cash,female,21,Power Banks,95,6,89.3
+store1,offline,online payment,male,19,Tablets,313,14,269.18
+store6,offline,cash,male,26,Laptops,651,6,611.94
+store6,offline,cash,female,27,Power Banks,45,15,38.25
+store6,online,cash,male,28,Laptops,1425,11,1268.25
+store4,offline,cash,male,31,Cameras,1305,5,1239.75
+store5,offline,debit card,female,24,Power Banks,41,14,35.26
+store4,offline,cash,female,40,Laptops,1481,10,1332.9
+store2,online,debit card,female,32,Gaming Consoles,440,8,404.8
+store2,offline,online payment,female,39,Power Banks,66,13,57.42
+store5,online,credit card,other,36,Cameras,1339,14,1151.54
+store7,offline,cash,male,39,Power Banks,31,10,27.9
+store4,offline,credit card,male,32,Cameras,666,8,612.72
+store1,online,credit card,male,25,Power Banks,99,13,86.13
+store6,offline,online payment,male,28,Laptops,1803,12,1586.64
+store6,online,credit card,male,26,Tablets,517,14,444.62
+store5,online,debit card,female,32,Bluetooth Speakers,221,12,194.48
+store7,offline,credit card,female,18,Laptops,927,7,862.11
+store2,online,credit card,female,18,Smartphones,765,14,657.9
+store2,offline,credit card,male,36,Televisions,1303,6,1224.82
+store6,offline,cash,female,20,Tablets,595,8,547.4
+store5,online,cash,female,27,Gaming Consoles,416,10,374.4
+store4,online,debit card,female,25,Smartwatches,141,11,125.49
+store2,online,debit card,male,32,Laptops,898,5,853.1
+store4,online,cash,female,27,Power Banks,25,13,21.75
+store7,offline,debit card,male,18,Laptops,643,9,585.13
+store2,offline,cash,male,35,Headphones and Earbuds,137,9,124.67
+store2,online,online payment,male,19,Tablets,224,13,194.88
+store3,offline,credit card,female,36,Bluetooth Speakers,94,9,85.54
+store2,offline,credit card,female,30,Gaming Consoles,519,5,493.05
+store1,offline,debit card,male,39,Headphones and Earbuds,66,7,61.38
+store5,offline,cash,male,18,Cameras,189,15,160.65
+store5,online,cash,male,19,Headphones and Earbuds,109,6,102.46
+store4,online,debit card,male,33,Laptops,830,9,755.3
+store7,offline,cash,male,32,Gaming Consoles,506,10,455.4
+store2,online,online payment,male,30,Laptops,654,10,588.6
+store1,online,credit card,female,33,Cameras,1152,5,1094.4
+store4,online,debit card,male,34,Smartwatches,458,10,412.2
+store3,offline,debit card,male,38,Gaming Consoles,597,9,543.27
+store4,offline,cash,male,24,Smartwatches,290,15,246.5
+store4,offline,debit card,female,34,Tablets,709,7,659.37
+store2,online,online payment,female,24,Tablets,602,9,547.82
+store3,offline,cash,female,30,Smartwatches,55,9,50.05
+store4,offline,cash,male,22,Tablets,406,9,369.46
+store1,online,cash,female,34,Gaming Consoles,640,12,563.2
+store1,offline,cash,male,20,Power Banks,41,7,38.13
+store5,offline,online payment,female,24,Smartphones,332,7,308.76
+store3,online,cash,female,34,Tablets,635,12,558.8
+store3,online,debit card,female,24,Tablets,671,10,603.9
+store5,online,online payment,female,38,Laptops,741,9,674.31
+store4,offline,credit card,female,18,Smartwatches,292,7,271.56
+store3,offline,credit card,male,34,Televisions,450,7,418.5
+store1,offline,debit card,female,34,Bluetooth Speakers,296,5,281.2
+store1,online,debit card,male,28,Headphones and Earbuds,96,6,90.24
+store2,online,online payment,female,20,Tablets,356,11,316.84
+store3,offline,credit card,male,32,Headphones and Earbuds,257,14,221.02
+store4,offline,credit card,male,38,Gaming Consoles,491,8,451.72
+store5,online,credit card,male,28,Televisions,1071,8,985.32
+store5,online,credit card,male,33,Bluetooth Speakers,179,6,168.26
+store4,online,credit card,male,39,Smartwatches,184,9,167.44
+store7,online,cash,female,26,Smartphones,863,5,819.85
+store6,offline,debit card,male,18,Bluetooth Speakers,87,14,74.82
+store2,online,cash,male,39,Bluetooth Speakers,168,12,147.84
+store5,offline,credit card,female,33,Smartphones,488,15,414.8
+store3,offline,online payment,male,26,Power Banks,73,14,62.78
+store2,offline,online payment,female,36,Smartwatches,475,10,427.5
+store3,online,credit card,female,29,Laptops,1993,10,1793.7
+store7,online,credit card,female,36,Headphones and Earbuds,146,7,135.78
+store1,online,online payment,female,39,Tablets,314,10,282.6
+store2,online,cash,male,26,Bluetooth Speakers,194,14,166.84
+store5,offline,cash,female,24,Gaming Consoles,639,6,600.66
+store2,online,credit card,male,31,Smartphones,485,14,417.1
+store2,online,cash,male,36,Headphones and Earbuds,287,8,264.04
+store2,offline,online payment,female,36,Televisions,644,14,553.84
+store6,online,cash,male,19,Smartphones,1187,14,1020.82
+store2,offline,credit card,female,26,Televisions,1290,12,1135.2
+store3,offline,online payment,female,30,Smartwatches,414,12,364.32
+store1,offline,cash,female,32,Bluetooth Speakers,148,10,133.2
+store7,offline,debit card,female,20,Gaming Consoles,304,13,264.48
+store4,offline,online payment,male,28,Tablets,398,15,338.3
+store2,offline,online payment,male,38,Televisions,592,13,515.04
+store5,offline,debit card,female,31,Headphones and Earbuds,30,11,26.7
+store2,offline,debit card,male,25,Power Banks,55,11,48.95
+store5,online,online payment,female,35,Smartwatches,231,13,200.97
+store3,online,debit card,female,36,Power Banks,67,10,60.3
+store5,online,credit card,female,33,Smartwatches,330,13,287.1
+store4,online,credit card,male,19,Laptops,681,10,612.9
+store1,offline,credit card,male,25,Headphones and Earbuds,294,6,276.36
+store5,online,online payment,male,39,Power Banks,27,9,24.57
+store5,offline,debit card,male,23,Gaming Consoles,478,9,434.98
+store1,online,debit card,female,29,Bluetooth Speakers,211,6,198.34
+store4,online,cash,male,32,Smartphones,1032,6,970.08
+store2,online,cash,male,25,Tablets,214,10,192.6
+store5,offline,debit card,male,21,Bluetooth Speakers,189,6,177.66
+store1,online,debit card,female,32,Bluetooth Speakers,263,8,241.96
+store3,offline,debit card,female,37,Smartwatches,147,12,129.36
+store1,offline,online payment,male,34,Gaming Consoles,551,15,468.35
+store3,online,debit card,male,30,Smartwatches,466,12,410.08
+store4,online,cash,male,35,Cameras,1497,15,1272.45
+store2,online,online payment,male,19,Televisions,242,12,212.96
+store1,offline,debit card,female,30,Tablets,303,8,278.76
+store7,online,cash,female,30,Televisions,603,12,530.64
+store7,offline,online payment,male,39,Smartphones,659,12,579.92
+store6,offline,debit card,male,32,Cameras,439,9,399.49
+store5,online,debit card,other,37,Headphones and Earbuds,77,5,73.15
+store4,online,debit card,male,27,Smartphones,1159,12,1019.92
+store1,offline,online payment,female,20,Smartphones,1127,5,1070.65
+store7,offline,cash,male,36,Laptops,570,11,507.3
+store5,offline,cash,male,20,Tablets,370,7,344.1
+store7,online,credit card,male,39,Smartwatches,232,11,206.48
+store1,offline,debit card,female,31,Gaming Consoles,396,10,356.4
+store3,online,credit card,female,25,Televisions,1018,5,967.1
+store1,offline,credit card,male,40,Smartphones,876,9,797.16
+store6,offline,cash,male,21,Televisions,1306,11,1162.34
+store1,online,online payment,male,37,Televisions,1163,13,1011.81
+store1,offline,online payment,male,28,Headphones and Earbuds,172,14,147.92
+store6,online,cash,male,28,Tablets,575,10,517.5
+store4,online,online payment,male,28,Tablets,328,12,288.64
+store1,offline,credit card,female,19,Power Banks,63,8,57.96
+store6,online,debit card,male,34,Bluetooth Speakers,211,8,194.12
+store5,online,cash,male,26,Tablets,237,7,220.41
+store3,offline,debit card,female,19,Televisions,515,11,458.35
+store3,online,online payment,male,32,Smartwatches,181,8,166.52
+store1,online,debit card,female,33,Televisions,1402,6,1317.88
+store4,online,online payment,male,21,Smartwatches,154,12,135.52
+store4,offline,online payment,female,25,Power Banks,36,12,31.68
+store5,online,credit card,female,26,Smartwatches,216,9,196.56
+store1,offline,online payment,female,22,Tablets,581,6,546.14
+store3,offline,credit card,other,33,Headphones and Earbuds,53,9,48.23
+store4,online,credit card,male,30,Smartwatches,479,9,435.89
+store1,online,credit card,female,24,Televisions,1325,12,1166
+store7,online,cash,male,37,Gaming Consoles,531,8,488.52
+store4,offline,cash,male,34,Tablets,588,12,517.44
+store6,online,online payment,male,20,Gaming Consoles,307,14,264.02
+store7,online,credit card,female,22,Cameras,575,7,534.75
+store4,online,cash,male,36,Cameras,1214,15,1031.9
+store3,online,credit card,female,29,Televisions,301,9,273.91
+store2,online,debit card,female,24,Cameras,495,8,455.4
+store7,offline,debit card,female,26,Bluetooth Speakers,247,9,224.77
+store5,offline,debit card,female,23,Power Banks,33,6,31.02
+store5,online,online payment,male,34,Tablets,757,6,711.58
+store3,online,credit card,male,33,Gaming Consoles,352,9,320.32
+store4,online,debit card,male,40,Televisions,1237,13,1076.19
+store1,online,cash,male,20,Bluetooth Speakers,218,14,187.48
+store4,offline,debit card,male,38,Televisions,1175,12,1034
+store3,online,debit card,male,21,Bluetooth Speakers,145,6,136.3
+store5,offline,debit card,male,27,Cameras,820,12,721.6
+store4,offline,online payment,female,22,Cameras,1300,11,1157
+store5,online,cash,female,38,Smartwatches,260,13,226.2
+store7,offline,credit card,male,39,Laptops,1040,13,904.8
+store1,offline,cash,female,27,Televisions,897,14,771.42
+store7,offline,credit card,male,29,Smartwatches,373,9,339.43
+store5,offline,online payment,male,27,Tablets,438,12,385.44
+store5,online,online payment,female,30,Smartwatches,472,8,434.24
+store2,online,online payment,male,28,Smartphones,565,15,480.25
+store2,offline,online payment,male,39,Cameras,766,7,712.38
+store7,online,credit card,other,33,Smartphones,981,5,931.95
+store6,online,debit card,female,25,Televisions,1096,6,1030.24
+store7,online,credit card,female,25,Gaming Consoles,645,13,561.15
+store2,online,cash,female,25,Gaming Consoles,699,9,636.09
+store5,online,online payment,female,30,Tablets,427,9,388.57
+store3,offline,online payment,male,19,Smartwatches,100,15,85
+store7,online,cash,male,29,Gaming Consoles,312,14,268.32
+store5,online,credit card,male,27,Bluetooth Speakers,299,8,275.08
+store3,online,debit card,male,29,Bluetooth Speakers,353,7,328.29
+store3,online,debit card,female,28,Tablets,293,13,254.91
+store2,offline,cash,male,32,Power Banks,24,14,20.64
+store7,offline,debit card,female,33,Cameras,187,10,168.3
+store4,offline,credit card,female,34,Smartwatches,420,11,373.8
+store1,offline,credit card,female,19,Televisions,605,8,556.6
+store2,online,cash,female,35,Headphones and Earbuds,132,13,114.84
+store2,offline,credit card,female,29,Headphones and Earbuds,161,11,143.29
+store4,online,online payment,male,36,Headphones and Earbuds,255,10,229.5
+store1,online,cash,female,40,Gaming Consoles,560,6,526.4
+store5,online,credit card,male,35,Power Banks,65,14,55.9
+store6,online,cash,female,34,Power Banks,26,11,23.14
+store7,online,debit card,male,23,Smartwatches,281,7,261.33
+store6,offline,credit card,female,32,Smartwatches,372,11,331.08
+store5,offline,online payment,female,20,Power Banks,98,12,86.24
+store2,offline,credit card,male,23,Tablets,281,10,252.9
+store1,offline,cash,male,20,Smartwatches,54,12,47.52
+store2,online,cash,other,18,Tablets,199,11,177.11
+store3,offline,credit card,male,30,Smartphones,638,14,548.68
+store2,online,online payment,female,38,Bluetooth Speakers,334,6,313.96
+store2,offline,online payment,female,31,Cameras,110,6,103.4
+store5,online,online payment,male,30,Smartwatches,256,7,238.08
+store5,online,cash,male,21,Power Banks,40,12,35.2
+store5,offline,credit card,male,24,Bluetooth Speakers,49,11,43.61
+store6,online,debit card,female,39,Bluetooth Speakers,197,14,169.42
+store3,online,cash,male,27,Laptops,882,12,776.16
+store5,offline,online payment,female,24,Power Banks,42,10,37.8
+store1,online,credit card,female,38,Cameras,1088,15,924.8
+store6,offline,online payment,female,32,Power Banks,57,8,52.44
+store4,offline,debit card,female,32,Smartwatches,106,13,92.22
+store1,offline,online payment,other,21,Televisions,1450,9,1319.5
+store7,online,online payment,male,40,Smartphones,872,11,776.08
+store7,online,debit card,female,40,Tablets,648,12,570.24
+store1,online,credit card,female,23,Televisions,303,11,269.67
+store5,offline,cash,female,37,Smartphones,342,6,321.48
+store4,online,credit card,female,22,Televisions,225,9,204.75
+store4,offline,debit card,male,37,Tablets,273,11,242.97
+store6,offline,online payment,male,29,Gaming Consoles,466,13,405.42
+store4,online,credit card,female,18,Power Banks,94,9,85.54
+store7,offline,cash,male,25,Televisions,794,14,682.84
+store3,online,debit card,female,18,Smartwatches,181,9,164.71
+store5,online,credit card,female,22,Cameras,887,10,798.3
+store4,online,cash,male,39,Headphones and Earbuds,51,13,44.37
+store6,online,debit card,female,23,Smartwatches,324,11,288.36
+store7,online,cash,male,38,Tablets,519,15,441.15
+store3,offline,debit card,female,20,Cameras,1209,12,1063.92
+store2,offline,online payment,female,32,Smartwatches,494,10,444.6
+store2,offline,credit card,female,22,Bluetooth Speakers,123,5,116.85
+store3,online,cash,male,31,Power Banks,56,9,50.96
+store7,online,debit card,male,35,Cameras,1372,8,1262.24
+store6,online,cash,female,33,Bluetooth Speakers,321,12,282.48
+store3,offline,cash,female,23,Smartwatches,269,7,250.17
+store5,online,credit card,female,31,Smartphones,1151,7,1070.43
+store5,offline,online payment,male,25,Laptops,586,7,544.98
+store2,offline,cash,male,24,Smartphones,1138,6,1069.72
+store4,online,debit card,male,25,Power Banks,15,8,13.8
+store6,online,debit card,female,30,Cameras,866,14,744.76
+store2,offline,online payment,male,23,Cameras,1347,13,1171.89
+store4,online,debit card,male,35,Power Banks,34,12,29.92
+store4,offline,online payment,female,19,Bluetooth Speakers,205,13,178.35
+store5,online,debit card,male,25,Laptops,986,8,907.12
+store7,online,credit card,other,28,Smartwatches,478,14,411.08
+store1,offline,cash,female,18,Tablets,685,6,643.9
+store7,online,credit card,female,39,Smartphones,938,8,862.96
+store1,offline,cash,male,23,Smartphones,829,11,737.81
+store3,online,cash,male,33,Headphones and Earbuds,250,6,235
+store5,offline,cash,female,37,Laptops,1088,12,957.44
+store4,offline,credit card,female,29,Tablets,441,9,401.31
+store6,online,cash,female,28,Smartphones,957,13,832.59
+store1,offline,credit card,male,27,Tablets,383,10,344.7
+store7,online,online payment,female,20,Smartwatches,79,7,73.47
+store4,online,debit card,female,30,Cameras,204,12,179.52
+store1,online,debit card,female,20,Tablets,225,8,207
+store1,offline,cash,female,32,Smartphones,1083,10,974.7
+store1,offline,credit card,female,33,Bluetooth Speakers,205,6,192.7
+store6,online,debit card,female,30,Laptops,1569,11,1396.41
+store5,online,credit card,male,34,Power Banks,45,12,39.6
+store6,offline,credit card,male,20,Televisions,536,9,487.76
+store2,online,cash,male,37,Gaming Consoles,439,15,373.15
+store4,online,debit card,male,28,Gaming Consoles,618,14,531.48
+store5,offline,cash,male,38,Televisions,1013,12,891.44
+store5,online,cash,male,36,Tablets,759,12,667.92
+store5,offline,debit card,male,39,Laptops,1520,8,1398.4
+store7,online,debit card,male,28,Tablets,521,12,458.48
+store5,offline,online payment,female,33,Power Banks,65,7,60.45
+store6,online,online payment,female,38,Laptops,1914,6,1799.16
+store5,online,credit card,male,20,Televisions,1225,15,1041.25
+store3,offline,debit card,female,39,Tablets,166,11,147.74
+store4,online,online payment,female,23,Headphones and Earbuds,170,9,154.7
+store5,offline,credit card,male,31,Smartphones,920,8,846.4
+store4,online,credit card,male,35,Bluetooth Speakers,307,11,273.23
+store3,offline,credit card,female,34,Cameras,398,5,378.1
+store3,offline,online payment,female,21,Bluetooth Speakers,351,6,329.94
+store4,offline,debit card,female,40,Power Banks,96,5,91.2
+store1,offline,cash,male,32,Tablets,304,10,273.6
+store2,online,credit card,male,28,Smartwatches,447,11,397.83
+store7,online,online payment,male,20,Laptops,645,6,606.3
+store1,offline,online payment,male,20,Tablets,186,12,163.68
+store1,offline,cash,male,33,Laptops,694,7,645.42
+store6,offline,cash,male,22,Cameras,181,12,159.28
+store7,online,online payment,female,38,Headphones and Earbuds,257,15,218.45
+store7,online,debit card,female,27,Bluetooth Speakers,52,12,45.76
+store1,online,cash,male,36,Smartphones,544,14,467.84
+store5,online,online payment,female,21,Cameras,245,14,210.7
+store6,offline,cash,male,36,Cameras,514,10,462.6
+store6,offline,debit card,male,28,Bluetooth Speakers,64,12,56.32
+store3,offline,credit card,male,19,Cameras,1035,14,890.1
+store7,online,cash,female,27,Smartwatches,110,9,100.1
+store1,online,debit card,female,28,Smartwatches,433,8,398.36
+store3,online,online payment,female,37,Gaming Consoles,627,14,539.22
+store4,offline,cash,male,33,Gaming Consoles,305,12,268.4
+store2,offline,cash,female,36,Smartwatches,453,7,421.29
+store6,online,online payment,male,40,Televisions,238,9,216.58
+store4,offline,credit card,female,28,Headphones and Earbuds,87,13,75.69
+store4,online,online payment,female,31,Laptops,549,10,494.1
+store5,online,cash,male,19,Headphones and Earbuds,114,11,101.46
+store2,offline,online payment,female,40,Power Banks,56,13,48.72
+store4,online,debit card,female,22,Cameras,1215,11,1081.35
+store4,offline,online payment,male,22,Smartphones,604,10,543.6
+store2,online,cash,female,36,Cameras,1088,12,957.44
+store2,offline,online payment,male,38,Headphones and Earbuds,73,12,64.24
+store4,offline,credit card,female,29,Smartwatches,388,11,345.32
+store2,offline,online payment,female,35,Bluetooth Speakers,117,9,106.47
+store4,online,credit card,female,21,Power Banks,23,9,20.93
+store4,online,debit card,female,39,Smartwatches,133,15,113.05
+store5,offline,credit card,female,34,Headphones and Earbuds,71,6,66.74
+store1,offline,online payment,male,27,Bluetooth Speakers,220,8,202.4
+store4,online,cash,female,37,Smartphones,1060,10,954
+store3,online,credit card,male,23,Headphones and Earbuds,42,13,36.54
+store6,online,debit card,female,31,Laptops,1560,7,1450.8
+store7,offline,credit card,male,28,Tablets,575,8,529
+store1,online,credit card,male,28,Bluetooth Speakers,353,6,331.82
+store1,online,credit card,female,35,Headphones and Earbuds,88,12,77.44
+store1,offline,debit card,male,40,Smartwatches,253,7,235.29
+store5,online,online payment,female,39,Laptops,1889,9,1718.99
+store4,online,credit card,male,35,Televisions,1058,9,962.78
+store5,online,credit card,male,40,Bluetooth Speakers,174,14,149.64
+store4,offline,cash,female,28,Laptops,697,9,634.27
+store5,offline,debit card,male,38,Smartwatches,168,6,157.92
+store5,offline,credit card,male,29,Headphones and Earbuds,183,10,164.7
+store6,offline,debit card,female,22,Cameras,1105,15,939.25
+store3,offline,credit card,male,40,Smartphones,412,11,366.68
+store5,offline,online payment,female,26,Cameras,939,15,798.15
+store6,offline,online payment,male,26,Tablets,508,13,441.96
+store2,online,credit card,male,39,Laptops,1271,5,1207.45
+store3,online,online payment,female,27,Tablets,599,12,527.12
+store5,offline,credit card,male,39,Smartphones,1054,8,969.68
+store7,online,online payment,male,36,Laptops,984,11,875.76
+store1,online,cash,male,18,Gaming Consoles,656,8,603.52
+store2,offline,cash,male,24,Smartwatches,122,8,112.24
+store2,online,cash,female,21,Laptops,760,14,653.6
+store6,online,debit card,male,18,Smartwatches,170,7,158.1
+store2,online,debit card,female,32,Cameras,267,14,229.62
+store3,online,cash,female,25,Power Banks,31,5,29.45
+store5,online,debit card,male,29,Bluetooth Speakers,69,6,64.86
+store5,offline,online payment,female,39,Power Banks,84,14,72.24
+store7,offline,credit card,male,39,Headphones and Earbuds,59,11,52.51
+store1,offline,credit card,female,35,Bluetooth Speakers,307,12,270.16
+store6,online,credit card,male,32,Bluetooth Speakers,48,7,44.64
+store1,offline,cash,female,34,Televisions,1433,10,1289.7
+store2,online,debit card,female,31,Bluetooth Speakers,293,12,257.84
+store7,online,online payment,male,31,Smartphones,306,11,272.34
+store1,online,online payment,female,35,Power Banks,79,10,71.1
+store3,online,cash,female,37,Cameras,820,15,697
+store5,offline,online payment,male,35,Smartwatches,401,12,352.88
+store2,offline,online payment,male,33,Headphones and Earbuds,166,14,142.76
+store7,online,online payment,female,18,Bluetooth Speakers,267,12,234.96
+store1,offline,online payment,female,40,Headphones and Earbuds,240,12,211.2
+store6,online,debit card,female,28,Cameras,667,6,626.98
+store3,offline,online payment,female,32,Headphones and Earbuds,21,9,19.11
+store3,offline,credit card,female,29,Cameras,1290,14,1109.4
+store1,online,cash,female,25,Bluetooth Speakers,171,7,159.03
+store5,offline,debit card,male,39,Cameras,794,6,746.36
+store1,online,online payment,male,37,Bluetooth Speakers,33,8,30.36
+store2,offline,debit card,female,23,Televisions,840,7,781.2
+store1,online,online payment,female,20,Televisions,1482,14,1274.52
+store3,online,credit card,male,30,Cameras,490,14,421.4
+store7,offline,cash,male,30,Televisions,714,10,642.6
+store1,offline,online payment,female,19,Smartwatches,359,6,337.46
+store5,online,online payment,female,22,Smartwatches,417,12,366.96
+store7,offline,online payment,male,34,Televisions,743,11,661.27
+store6,offline,online payment,male,23,Televisions,603,15,512.55
+store4,online,cash,male,19,Gaming Consoles,675,11,600.75
+store1,online,cash,male,21,Gaming Consoles,571,8,525.32
+store5,offline,credit card,male,39,Bluetooth Speakers,74,10,66.6
+store7,online,cash,male,28,Cameras,196,15,166.6
+store5,online,online payment,female,25,Tablets,464,12,408.32
+store6,online,credit card,male,29,Tablets,293,12,257.84
+store3,offline,credit card,female,25,Televisions,530,7,492.9
+store5,offline,credit card,female,28,Headphones and Earbuds,266,12,234.08
+store7,online,online payment,male,39,Televisions,316,13,274.92
+store5,offline,debit card,female,37,Gaming Consoles,586,8,539.12
+store5,online,online payment,male,25,Bluetooth Speakers,130,10,117
+store5,offline,cash,female,25,Televisions,1188,8,1092.96
+store2,online,cash,male,34,Power Banks,75,8,69
+store2,online,online payment,female,37,Headphones and Earbuds,22,5,20.9
+store3,offline,online payment,female,37,Power Banks,56,8,51.52
+store1,online,credit card,male,40,Bluetooth Speakers,82,11,72.98
+store5,offline,online payment,male,33,Bluetooth Speakers,351,5,333.45
+store6,offline,credit card,female,31,Smartwatches,442,8,406.64
+store1,online,cash,female,28,Laptops,1128,14,970.08
+store6,online,credit card,male,24,Power Banks,50,11,44.5
+store1,offline,online payment,female,33,Smartwatches,186,11,165.54
+store3,online,cash,male,30,Gaming Consoles,587,9,534.17
+store5,online,debit card,female,32,Smartphones,623,12,548.24
+store5,online,credit card,male,33,Headphones and Earbuds,95,7,88.35
+store4,online,cash,female,38,Smartphones,689,13,599.43
+store6,online,credit card,male,40,Cameras,228,6,214.32
+store1,offline,cash,male,26,Gaming Consoles,599,12,527.12
+store1,offline,cash,male,20,Gaming Consoles,305,8,280.6
+store2,online,credit card,male,36,Smartphones,880,12,774.4
+store4,online,debit card,female,37,Power Banks,26,10,23.4
+store7,online,cash,male,22,Laptops,849,10,764.1
+store7,offline,cash,female,27,Power Banks,67,7,62.31
+store2,online,cash,male,34,Smartphones,1194,11,1062.66
+store2,offline,debit card,male,32,Cameras,1189,15,1010.65
+store2,offline,debit card,male,40,Power Banks,30,13,26.1
+store6,offline,online payment,male,25,Tablets,264,6,248.16
+store6,online,credit card,male,32,Power Banks,88,9,80.08
+store3,offline,debit card,male,38,Bluetooth Speakers,194,14,166.84
+store3,online,credit card,female,31,Smartwatches,112,10,100.8
+store2,offline,online payment,male,37,Headphones and Earbuds,261,12,229.68
+store4,online,credit card,female,24,Power Banks,83,14,71.38
+store1,offline,debit card,female,38,Laptops,1976,14,1699.36
+store6,online,credit card,male,40,Laptops,1865,10,1678.5
+store4,offline,debit card,male,29,Power Banks,87,9,79.17
+store5,online,credit card,female,34,Televisions,268,8,246.56
+store6,online,debit card,female,34,Gaming Consoles,342,12,300.96
+store6,online,debit card,female,27,Power Banks,61,8,56.12
+store3,online,credit card,male,36,Gaming Consoles,513,7,477.09
+store1,offline,online payment,female,31,Tablets,448,9,407.68
+store1,offline,cash,female,28,Smartphones,657,7,611.01
+store7,online,online payment,female,19,Tablets,430,12,378.4
+store7,offline,credit card,female,35,Power Banks,61,11,54.29
+store7,online,online payment,male,24,Laptops,503,10,452.7
+store7,online,debit card,male,29,Televisions,539,9,490.49
+store5,offline,cash,female,19,Cameras,826,14,710.36
+store5,online,credit card,female,37,Gaming Consoles,589,5,559.55
+store6,online,credit card,male,35,Smartwatches,128,13,111.36
+store2,offline,credit card,male,23,Gaming Consoles,519,14,446.34
+store3,online,cash,male,27,Bluetooth Speakers,294,9,267.54
+store3,online,debit card,male,37,Headphones and Earbuds,144,11,128.16
+store7,online,credit card,female,32,Power Banks,12,14,10.32
+store6,online,online payment,female,22,Tablets,442,7,411.06
+store4,offline,credit card,male,37,Smartwatches,183,10,164.7
+store2,offline,credit card,male,20,Laptops,1894,10,1704.6
+store6,offline,credit card,male,22,Laptops,687,8,632.04
+store2,online,credit card,male,25,Laptops,1479,13,1286.73
+store2,online,debit card,female,25,Cameras,174,14,149.64
+store2,offline,online payment,female,25,Bluetooth Speakers,195,13,169.65
+store6,online,debit card,female,29,Laptops,1331,7,1237.83
+store7,online,online payment,male,40,Laptops,947,6,890.18
+store3,online,credit card,female,25,Power Banks,51,11,45.39
+store3,online,cash,female,28,Bluetooth Speakers,91,6,85.54
+store7,offline,debit card,female,31,Televisions,595,12,523.6
+store2,offline,cash,male,25,Televisions,1007,10,906.3
+store4,offline,debit card,male,27,Bluetooth Speakers,142,12,124.96
+store1,online,credit card,male,24,Headphones and Earbuds,272,11,242.08
+store6,offline,debit card,male,34,Cameras,980,9,891.8
+store1,offline,credit card,male,21,Smartwatches,247,7,229.71
+store7,online,debit card,male,30,Gaming Consoles,316,8,290.72
+store4,online,credit card,male,21,Power Banks,55,10,49.5
+store6,offline,credit card,female,22,Smartphones,988,12,869.44
+store7,offline,online payment,male,39,Televisions,545,13,474.15
+store2,offline,credit card,male,21,Bluetooth Speakers,329,13,286.23
+store3,offline,online payment,female,35,Smartwatches,163,15,138.55
+store1,online,credit card,female,23,Bluetooth Speakers,335,8,308.2
+store5,offline,cash,female,40,Gaming Consoles,334,6,313.96
+store5,offline,credit card,other,39,Smartwatches,440,8,404.8
+store4,online,cash,female,19,Televisions,849,12,747.12
+store2,offline,cash,female,40,Laptops,945,9,859.95
+store1,online,credit card,male,28,Bluetooth Speakers,128,13,111.36
+store2,online,cash,male,31,Smartphones,689,10,620.1
+store1,online,online payment,male,22,Televisions,1499,14,1289.14
+store4,offline,debit card,male,23,Tablets,293,14,251.98
+store4,offline,credit card,male,27,Smartphones,393,6,369.42
+store5,online,cash,female,25,Headphones and Earbuds,184,10,165.6
+store2,offline,credit card,female,31,Cameras,784,11,697.76
+store6,offline,online payment,female,20,Televisions,881,8,810.52
+store5,online,credit card,male,29,Laptops,1500,9,1365
+store2,online,credit card,female,33,Televisions,547,12,481.36
+store5,offline,cash,female,40,Gaming Consoles,664,7,617.52
+store6,online,online payment,male,34,Smartwatches,246,11,218.94
+store3,offline,debit card,female,18,Bluetooth Speakers,78,12,68.64
+store3,offline,debit card,male,40,Smartwatches,384,6,360.96
+store3,offline,cash,male,27,Smartwatches,339,10,305.1
+store3,offline,credit card,female,40,Televisions,610,8,561.2
+store7,online,cash,male,27,Gaming Consoles,549,12,483.12
+store1,online,cash,male,38,Bluetooth Speakers,111,7,103.23
+store7,online,cash,female,19,Bluetooth Speakers,195,14,167.7
+store7,online,credit card,female,26,Smartwatches,455,9,414.05
+store7,offline,online payment,male,39,Headphones and Earbuds,57,7,53.01
+store3,offline,cash,male,30,Cameras,641,9,583.31
+store6,online,credit card,male,33,Gaming Consoles,628,9,571.48
+store4,offline,online payment,female,35,Headphones and Earbuds,291,9,264.81
+store4,offline,cash,male,36,Power Banks,51,11,45.39
+store1,offline,debit card,male,29,Power Banks,56,10,50.4
+store3,online,online payment,female,25,Smartphones,815,6,766.1
+store3,online,cash,female,34,Smartwatches,470,6,441.8
+store3,online,online payment,male,32,Bluetooth Speakers,348,12,306.24
+store5,offline,online payment,female,27,Televisions,422,11,375.58
+store2,online,online payment,female,32,Bluetooth Speakers,192,9,174.72
+store5,online,online payment,male,32,Bluetooth Speakers,202,13,175.74
+store2,online,online payment,male,40,Laptops,1684,9,1532.44
+store3,online,online payment,female,24,Bluetooth Speakers,253,13,220.11
+store3,online,cash,male,30,Smartphones,889,8,817.88
+store5,online,debit card,female,34,Headphones and Earbuds,299,6,281.06
+store5,offline,credit card,male,26,Power Banks,17,14,14.62
+store2,offline,online payment,male,25,Bluetooth Speakers,113,9,102.83
+store4,online,credit card,male,37,Bluetooth Speakers,181,13,157.47
+store2,online,cash,male,38,Laptops,1022,8,940.24
+store5,offline,online payment,male,35,Gaming Consoles,309,11,275.01
+store6,offline,debit card,male,30,Televisions,319,14,274.34
+store5,online,credit card,female,33,Gaming Consoles,572,5,543.4
+store6,online,online payment,other,26,Televisions,1343,13,1168.41
+store1,online,cash,female,29,Cameras,820,11,729.8
+store5,online,debit card,female,29,Bluetooth Speakers,230,11,204.7
+store1,offline,credit card,male,23,Laptops,883,10,794.7
+store4,online,credit card,female,36,Tablets,649,14,558.14
+store2,online,online payment,male,24,Smartwatches,388,5,368.6
+store6,online,debit card,female,20,Power Banks,63,8,57.96
+store2,online,debit card,other,33,Headphones and Earbuds,80,14,68.8
+store1,offline,debit card,female,35,Power Banks,19,13,16.53
+store6,offline,debit card,other,33,Headphones and Earbuds,38,5,36.1
+store2,offline,cash,female,40,Cameras,930,10,837
+store5,online,debit card,male,24,Gaming Consoles,630,10,567
+store3,online,credit card,male,21,Smartphones,1072,9,975.52
+store1,offline,credit card,female,25,Bluetooth Speakers,202,8,185.84
+store2,online,cash,male,30,Tablets,660,12,580.8
+store1,online,credit card,female,30,Headphones and Earbuds,285,7,265.05
+store7,offline,credit card,other,34,Smartwatches,174,13,151.38
+store1,offline,debit card,male,34,Headphones and Earbuds,131,13,113.97
+store6,offline,credit card,female,22,Smartphones,1138,9,1035.58
+store7,offline,cash,female,23,Power Banks,40,8,36.8
+store6,online,debit card,female,36,Laptops,1871,8,1721.32
+store3,online,online payment,female,30,Power Banks,98,10,88.2
+store7,offline,debit card,female,31,Cameras,1027,12,903.76
+store5,online,cash,female,39,Laptops,1725,9,1569.75
+store1,offline,debit card,female,21,Power Banks,77,11,68.53
+store2,offline,debit card,male,24,Smartwatches,365,9,332.15
+store4,online,cash,male,25,Power Banks,38,8,34.96
+store1,offline,debit card,female,30,Smartwatches,76,5,72.2
+store1,online,cash,male,23,Smartwatches,204,5,193.8
+store3,online,cash,female,23,Laptops,1500,7,1395
+store5,online,online payment,female,38,Gaming Consoles,341,9,310.31
+store4,online,credit card,male,20,Televisions,215,14,184.9
+store7,offline,credit card,female,20,Bluetooth Speakers,82,13,71.34
+store7,online,debit card,female,30,Headphones and Earbuds,220,8,202.4
+store7,offline,debit card,female,39,Televisions,1465,7,1362.45
+store6,offline,online payment,male,19,Smartphones,1185,7,1102.05
+store6,offline,online payment,male,33,Gaming Consoles,498,8,458.16
+store2,offline,online payment,male,39,Televisions,1330,10,1197
+store4,online,cash,female,23,Laptops,1605,9,1460.55
+store7,online,online payment,male,25,Smartphones,751,7,698.43
+store6,offline,online payment,female,40,Tablets,522,6,490.68
+store2,offline,debit card,male,25,Gaming Consoles,355,5,337.25
+store5,online,online payment,male,23,Televisions,1419,7,1319.67
+store2,offline,cash,female,31,Smartphones,617,12,542.96
+store6,online,cash,female,20,Tablets,440,7,409.2
+store3,offline,debit card,male,27,Power Banks,70,10,63
+store3,online,online payment,male,20,Smartphones,601,11,534.89
+store7,offline,online payment,male,29,Laptops,881,14,757.66
+store3,offline,cash,male,34,Power Banks,67,14,57.62
